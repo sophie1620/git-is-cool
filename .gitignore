@@ -1,0 +1,5 @@
+# ask git to ignore and not track all of these following files or include them in the project history
+.vscode/
+.DS_Store
+*.pdf
+*.zip
